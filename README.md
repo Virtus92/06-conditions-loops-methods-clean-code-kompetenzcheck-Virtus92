@@ -1,17 +1,18 @@
-# Thema des Kapitels
+# Kompetenzcheck zum Thema Datentypen, Bedingungen, Schleifen und Clean Code
 
 ## Lernziele
-Der Teilnehmer/die Teilnehmerin kann nach erfolgreicher Absolvierung dieses Themas:
-- das Thema erklären
-- das Thema anwenden, indem ein 
-- seinen/ihren Code erklären
-- seinen Code in GitHub einchecken
+Der\*die Teilnehmer\*in kann nach erfolgreicher Absolvierung dieses Themas:
+- die folgenden Themen in einem Programm anwenden:
+  - Ein- und Ausgaben in der Console
+  - Variablen
+  - Datentypen
+  - Bedingungen
+  - Schleifen
+  - Clean Code
+- ein Programm schreiben, das den Clean-Code-Anforderungen entspricht
+- seinen*ihren Code erklären
+- seinen*/ihren Code in GitHub einchecken
 
 ## Inhaltsverzeichnis
 
-1. [1. Kapitel - Beispiele in Markdown](chapter1.md)
-2. [2. Kapitel - Beispiel eines 2. Kapitels](chapter2.md)
-
-## Referenzen
-
-Hier kommt eine Liste von Links zu weiterführenden Inhalten (zB spezifische Inhalte, worauf man speziell achten muss, oder Inhalte, welche sich die Teilnehmer nur optional anschauen)
+1. [Angabe des Kompetenzchecks](./kompetenzcheck.md)
