@@ -4,7 +4,7 @@
 
 **DE**
 
-Schreibe ein kleines Programm, welches einen String über die Konsole einliest. Übersetzte den Text dann in Leetspeak - Du darfst dir hier eine beliebige Konfiguration verwenden, falls dir keine einfällt hier ein Vorschlag: Wenn du eine andere verwendest bitte in einer Markdown Datei deine Wahl angeben ;)
+Schreibe ein kleines Programm, welches einen String über die Konsole einliest. Übersetzte den Text dann in Leetspeak - Du darfst hierfür eine beliebige Konfiguration verwenden, falls dir keine einfällt hier ein Vorschlag: Wenn du eine andere verwendest bitte in einer Markdown Datei deiner Wahl angeben ;)
 
 ```
 A => '@' B => '8' C => '(' D => 'D' E => '3' F => 'F' G => '6' H => '#' I => '!' J => 'J' K => 'K' L => '1' M => 'M' N => 'N'  O => '0' P => 'P' Q => 'Q' R => 'R' S => '$' T => '7' U => 'U' V => 'V' W => 'W' X => 'X' Y => 'Y' Z => '2'
@@ -21,7 +21,7 @@ A => '@' B => '8' C => '(' D => 'D' E => '3' F => 'F' G => '6' H => '#' I => '!'
 ### Abnahmekriterien
 
 - die Benutzer\*innenführung ist klar
-- die Variablennamen sind aussagekräftig
+- die Clean Code-Regeln wurden eingehalten
 - das Programm funktioniert und entspricht den Anforderungen
   - Übersetzungstabelle ist in einem sinnvollen Datentyp gespeichert
   - der sinnvollste Schleifentyp wird verwendet
