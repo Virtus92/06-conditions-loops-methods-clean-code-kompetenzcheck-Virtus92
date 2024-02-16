@@ -10,8 +10,6 @@ Der:die Teilnehmer:in kann nach erfolgreicher Absolvierung dieses Themas:
   - Schleifen
   - Clean Code
 - ein Programm schreiben, das den Clean-Code-Anforderungen entspricht
-- seinen:ihren Code erklären
-- seinen:ihren Code in GitHub einchecken
 
 ## Inhaltsverzeichnis
 
