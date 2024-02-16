@@ -20,12 +20,12 @@ A => '@' B => '8' C => '(' D => 'D' E => '3' F => 'F' G => '6' H => '#' I => '!'
 
 ### Abnahmekriterien
 
-- die Benutzer\*innenführung ist klar
+- die Benutzer:innenführung ist klar
 - die Clean Code-Regeln wurden eingehalten
 - das Programm funktioniert und entspricht den Anforderungen
   - Übersetzungstabelle ist in einem sinnvollen Datentyp gespeichert
   - der sinnvollste Schleifentyp wird verwendet
-- der\*die Teilnehmer\*in ist in der Lage sein\*ihr Programm zu erklären
+- der:die Teilnehmer:in ist in der Lage sein:ihr Programm zu erklären
 - das Programm ist in GITHub gepusht
 
 Zurück zur [Startseite](README.md)
