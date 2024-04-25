@@ -28,4 +28,4 @@ A => '@' B => '8' C => '(' D => 'D' E => '3' F => 'F' G => '6' H => '#' I => '!'
 - Der:die Teilnehmer:in ist in der Lage sein:ihr Programm zu erklären
 - Das Programm ist in GITHub gepusht
 
-Zurück zur [Startseite](README.md)
+Zurück zur [Startseite](../README.md)

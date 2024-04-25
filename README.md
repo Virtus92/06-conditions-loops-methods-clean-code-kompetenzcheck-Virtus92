@@ -13,4 +13,4 @@ Der:die Teilnehmer:in kann nach erfolgreicher Absolvierung dieses Themas:
 
 ## Inhaltsverzeichnis
 
-1. [Angabe des Kompetenzchecks](./kompetenzcheck.md)
+1. [Angabe des Kompetenzchecks](content/kompetenzcheck.md)
