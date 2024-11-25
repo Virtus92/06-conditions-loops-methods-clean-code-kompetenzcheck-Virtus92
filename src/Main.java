@@ -12,18 +12,14 @@ public class Main {
 
         char[] converted = sentence.toCharArray();
 
-        for (int i=0; i<converted.length; i++) {
+        for (int i = 0; i < converted.length; i++) {
             char c = converted[i];
-            for (int j=0; j<alphabet.length; j++) {
-                if (converted[i] == ' ') {
-                    converted[i] = ' ';
-                    System.out.print(converted[i]);
-                    break;
-                } else if (c == alphabet[j]) {
+            for (int j = 0; j < alphabet.length; j++) {
+                if (c == alphabet[j]) {
                     converted[i] = assigned[j];
-                    System.out.print(converted[i]);
                 }
             }
         }
+        System.out.print(converted);
     }
 }
